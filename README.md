@@ -1,8 +1,15 @@
-# React + Vite
+# React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to My To-Do App! This simple web application allows you to manage your tasks, mark them as completed, and delete them.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add tasks to your to-do list.
+- Mark tasks as completed with a checkbox.
+- Delete tasks when they're no longer needed.
+
+##Screenshot
+
+<img width="655" alt="image" src="https://github.com/iAmDiksha/React_Todo_App/assets/89463068/1fd9ab3c-b58c-498d-a394-ce202415577e">
+
+
