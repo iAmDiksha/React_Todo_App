@@ -1,0 +1,24 @@
+.input-wrapper{
+    margin: 20px;
+}
+
+.input-wrapper input{
+    padding: 10px;
+    font-size: 18px;
+    outline: none;
+    border: 2px solid blue;
+    color: blue;
+    background-color: transparent;
+}
+
+.input-wrapper .add-btn{
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: blue;
+    color: #fff;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    margin-left: 5px;
+}
